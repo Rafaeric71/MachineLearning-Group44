@@ -1,2 +1,4 @@
 X_train_preprocessed.csv
 X_valPreprocessed.csv
+*.csv
+*.csv
